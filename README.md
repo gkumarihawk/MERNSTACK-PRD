@@ -14,3 +14,6 @@
 Requires npm and git to be installed
 1. Git pull
 2. npm run dev
+4. cd into reactapp and then hit npm start to run the server
+5. cd into node-api and then hit npm start to run the server
+   
