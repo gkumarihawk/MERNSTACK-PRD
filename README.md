@@ -8,7 +8,6 @@
 * Can check the delivery
 * Can cancel order/update order
 * Notification on recent purchases and links to go to a different page easily
-## Screenshots
 
 ## Installation
 Requires npm and git to be installed
